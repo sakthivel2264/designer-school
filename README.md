@@ -17,12 +17,3 @@ A simple web application for designers to submit their designs and receive feedb
 - **🔤 TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
 - **🎨 Tailwind CSS**: A utility-first CSS framework for styling.
 
-## Installation
-
-To get started with the project, follow these steps:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/design-review-system.git
-   cd design-review-system
